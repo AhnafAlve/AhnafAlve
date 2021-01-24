@@ -9,6 +9,7 @@
 - ⚡ Fun fact: I love to Explore the world 
 
 <br />
+<br />
 
 ### Languages and Tools:
 
@@ -37,12 +38,10 @@
 ![Ahnaf Alve's github stats](https://github-readme-stats.vercel.app/api?username=AhnafAlve&show_icons=true&theme=radical)
 
 <br />
-<br />
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhnafAlve&layout=compact)](https://github.com/AhnafAlve/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhnafAlve&langs_count=8)](https://github.com/AhnafAlve/github-readme-stats)
 
 
 
