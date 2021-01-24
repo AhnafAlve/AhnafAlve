@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Personal Projects
 - 🌱 I’m currently learning MERN/Full Stack Web Development
 - 👯 I’m looking to collaborate on other open source projects
-- 💬 Ask me about any teach related stuff
+- 💬 Ask me about any tech related stuff
 - 🥅 2021 Goals: Learn React and Node Js
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to Explore the world 
