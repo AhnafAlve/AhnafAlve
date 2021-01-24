@@ -1,4 +1,4 @@
-### Hi there, I'm [Ahnaf Alve][https://github.com/AhnafAlve] 👋
+### Hi there, I'm [Ahnaf Alve](https://github.com/AhnafAlve) 👋
 
 - 🔭 I’m currently working on Personal Projects
 - 🌱 I’m currently learning MERN/Full-Stack Web Development
