@@ -10,6 +10,7 @@
 
 <br />
 <br />
+---
 
 ### Languages and Tools:
 
@@ -31,7 +32,6 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/AhnafAlve)
 
 <br />
-<br />
 
 ---
 
@@ -41,7 +41,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhnafAlve&langs_count=8)](https://github.com/AhnafAlve/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhnafAlve&layout=compact)](https://github.com/AhnafAlve/github-readme-stats)
 
 
 
