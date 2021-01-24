@@ -8,7 +8,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to Explore the world 
 
-
 <br />
 
 ---
