@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Personal Projects
 - 🌱 I’m currently learning MERN/Full-Stack Web Development
-- 👯 I’m looking to collaborate on other open source project
+- 👯 I’m looking to collaborate on other open source projects
 - 💬 Ask me about any teach related stuff
 - 🥅 2021 Goals: Learn React and Node Js
 - 😄 Pronouns: He/Him
@@ -35,6 +35,13 @@
 ---
 
 ![Ahnaf Alve's github stats](https://github-readme-stats.vercel.app/api?username=AhnafAlve&show_icons=true&theme=radical)
+
+<br />
+<br />
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhnafAlve&layout=compact)](https://github.com/AhnafAlve/github-readme-stats)
 
 
 
