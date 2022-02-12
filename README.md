@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning MERN/Full Stack Web Development
 - 👯 I’m looking to collaborate with other programmers
 - 💬 Ask me about any tech related stuff
-- 🥅 2021 Goals: Learn React and Node Js
 - ⚡ Fun fact: I enthusiastically enjoy exploring new technologies.
 
 <br />
