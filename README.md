@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MERN/Full Stack Web Development
 - 👯 I’m looking to collaborate with other programmers
 - 💬 Ask me about any tech related stuff
-- ⚡ Fun fact: I enthusiastically enjoy exploring new technologies.
+- ⚡ I enthusiastically enjoy exploring new technologies.
 
 <br />
 
