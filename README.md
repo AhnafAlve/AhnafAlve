@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ahnaf Alve](https://github.com/AhnafAlve) 👋
 
-- 🌱 I’m currently learning Full stack development(MERN)
+- 🌱 I’m currently learning Full stack development (MERN)
 - 👯 I’m looking to collaborate with other programmers
 - 💬 Ask me about any tech related stuff
 - ⚡ I enthusiastically enjoy exploring new technologies.
